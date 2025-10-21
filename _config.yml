@@ -19,15 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "nothing to see here... move along"
-email: iam@jhun.ax
-description: just another website # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: "iam@jhun.ax"
+description: "just another website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jhunax18
-github_username:  jhunax
+twitter_username: "jhunax18"
+github_username:  "jhunax"
 
 # Build settings
 #theme: minima
